@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1
+
+https://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=47ca7aaf-2e0a-e8c8-7383-hCCmFNuwkPRJ&deviceId=4M9c53OkgfBk&deviceVersion=75.0.3770.142&appVersion=2.7.3-f002a080d17a7061ac73ac2e68de5e8ca0660c96&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=172&format=HLSAD&f=.m3u8
